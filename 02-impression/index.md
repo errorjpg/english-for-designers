@@ -1,8 +1,6 @@
 # Impression
 
-## Work by Elizaveta Vakalova 
-
-## (๑•́ ₃ •̀๑)
+## Work by Elizaveta Vakalova (๑•́ ₃ •̀๑)
 
 ![title-slide](IMG/title-slide.png)
 
