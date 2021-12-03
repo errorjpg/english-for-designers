@@ -50,7 +50,7 @@ Digital Marketing<br>
 Digital Illustration<br> 
 Tradition Art<br>
 
-## Personal skills
+## Personal Skills
 Advertising Layout<br>
 Creativity<br> 
 Ideas<br> 
