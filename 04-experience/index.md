@@ -1,4 +1,4 @@
-# Elizaveta Vakalova 
+# Elizaveta Vakalova (΄◞ิ౪◟ิ‵)
 
 [Behance](https://www.behance.net/suta_tobu) | magic4jellyfish@gmail.com | +420 776 829 718 
 
@@ -73,4 +73,4 @@ Games<br>
 Sculpting with polymer Clay<br>
 Punch Needle<br> 
 
-- [Download CV (PDF)](pdf/cv-2021-11-jgagne.pdf
+- [Download CV (PDF)](PDF/CV.pdf)
