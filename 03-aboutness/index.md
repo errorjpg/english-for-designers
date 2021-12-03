@@ -1,6 +1,6 @@
 # About me
 
-## Hi, my name is  Elizaveta Vakalova and I am a graphic designer and illustrator at the same time.
+## Hi, my name is  Elizaveta Vakalova and I am a graphic designer and illustrator at the same time. ( ͝° ͜ʖ͡°)ᕤ
 
 ![My Photo](IMG/photo.png)
 
