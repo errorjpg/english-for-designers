@@ -1,4 +1,5 @@
 # About me
+(IMG/photo.png)
 
 Hi, my name is  Elizaveta Vakalova and I am a graphic designer and illustrator at the same time.
 
