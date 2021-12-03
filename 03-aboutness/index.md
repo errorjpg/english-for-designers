@@ -1,6 +1,10 @@
 # About me
 
-Hi, my name is  Elizaveta Vakalova and I am a graphic designer and illustrator at the same time.
+## Hi, my name is  Elizaveta Vakalova and I am a graphic designer and illustrator at the same time.
+
+![My Photo](IMG/photo.png)
+
+- Project Povstalec case study
 
 I am always interested in innovations and trends in design, so in my work you can see combinations of different styles, which allows me to display my own individual style
 My main goal in my work is the maximum visual transmission of the customer's idea. That's why I always make contact and take into account all the main points of the task.
