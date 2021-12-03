@@ -4,11 +4,11 @@
 
 ## (๑•́ ₃ •̀๑)
 
-![title-slide](https://user-images.githubusercontent.com/94209039/142000142-bdd7c37b-1a2e-493f-b2a1-23013ca8343a.png)
+![title-slide](IMG/title-slide.png)
 
 I present you my three interesting projects made in the same style, but which I illustrated differently and developed for certain themes.
 
-- [View Presentation](https://github.com/errorjpg/english-for-designers/files/7557950/my-projects.pdf)
+- [View Presentation](PDF/my-projects.pdf)
 
 
 
