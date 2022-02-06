@@ -1,12 +1,12 @@
 ![title-slide](IMG/title-slide.png)
 
-- ## [About me](../03-aboutness/index.md)
-- ## [View CV](../04-experience/index.md) 
-- ## [Character & Description](../01-character-description/index.md)
-- ## [Impression](../02-impression/index.md)
-- ## [Case Study](../03-aboutness/case-study.md)
-- ## [Voice & Tone](../05-voice-tone/index.md)
-- ## My story
+- [About me](../03-aboutness/index.md)
+- [View CV](../04-experience/index.md) 
+- [Character & Description](../01-character-description/index.md)
+- [Impression](../02-impression/index.md)
+- [Case Study](../03-aboutness/case-study.md)
+- [Voice & Tone](../05-voice-tone/index.md)
+- My story
 
 # Contact
 magic4jellyfish@gmail.com / 
