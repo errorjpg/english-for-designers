@@ -1,4 +1,4 @@
-
+![title-slide](IMG/title-slide.png)
 
 - [About me](../03-aboutness/index.md)
 - [View CV](../04-experience/index.md) 
