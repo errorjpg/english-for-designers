@@ -3,7 +3,7 @@
 - [About me](../03-aboutness/index.md)
 - My story
 
-- [View CV](PDF/CV.pdf) 
+- [View CV](../04-experience/index.md) 
 
 ## Work
 - [Character & Description](01-character-description/)
