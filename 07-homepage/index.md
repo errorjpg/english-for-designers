@@ -12,7 +12,7 @@
 
 # Contact
 magic4jellyfish@gmail.com / 
-+420 776 829718 / 
++420 776 829 718 / 
 suta_tobu
 
 # Takeaways:
