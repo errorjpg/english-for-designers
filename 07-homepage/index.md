@@ -8,12 +8,12 @@
 - ## [Voice & Tone](../05-voice-tone/index.md)
 - ## My story
 
-## Contact
+# Contact
 magic4jellyfish@gmail.com / 
 +420 776 829718 / 
 suta_tobu
 
-## Takeaways:
+# Takeaways:
 1. I started working in github and understood how to use the tools correctly
 2. I understood how the content structure is built
 3. It is very important that the text is clear and accessible
