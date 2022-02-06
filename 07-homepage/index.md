@@ -1,6 +1,6 @@
 
 
-- [About me](03-aboutness/)
+- [About me](../03-aboutness/index.md)
 
 - View CV
 
