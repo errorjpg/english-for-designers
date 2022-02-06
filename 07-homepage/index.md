@@ -17,6 +17,6 @@ suta_tobu
 ## Takeaways:
 1. I started working in github and understood how to use the tools correctly
 2. I understood how the content structure is built
-3. It is very important to write the text in such a way that it is clear and accessible
+3. It is very important that the text is clear and accessible
 4. I learned how to write a resume
 5. Expanded my vocabulary
