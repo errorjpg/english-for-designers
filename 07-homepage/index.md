@@ -1,10 +1,6 @@
-# Name Surname
 
-## About
 
-About text…
-
-- [My story](03-aboutness/)
+- [About me](03-aboutness/)
 
 - View CV
 
