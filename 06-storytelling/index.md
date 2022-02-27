@@ -1,5 +1,5 @@
 # My Story
-![Title](IMG/title.png)
+![Title](IMG/Title.png)
 
 ## My Design Philosophy
 
