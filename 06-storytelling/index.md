@@ -1,3 +1,5 @@
+![Title](IMG/title.png)
+
 # My Design Philosophy
 
 I love creativity, in all its manifestations, but I am also very interested in psychology and sociology. Graphic design combines all these factors and helps to reveal them in our lives. I really enjoy studying and analyzing each person as an individual and helping to implement their ideas and visions in real life. 
@@ -7,11 +9,18 @@ I believe I can provide a creative understanding of the world. To allow people t
 # The Creative Way
 
 All my life I have been fascinated by art and have always been surrounded by creative people. Since my early childhood, my father took me to unusual exhibitions and there he introduced me to the works of artists and their stories. I was totally obsessed by this process, and inspired by it, I always sketched all the interesting things on paper. 
+
 That's how I gradually started to keep my sketchbook. And there, through collages and illustrations, I wanted to express my emotions and keep all the most interesting and important moments in my life. It was an interpretation of my inner world that only I could understand.
+
+![Sketchbook](IMG/2.png)
 
 In high school, I had already begun to learn how to draw portraits and illustrations in surrealism. I also liked using and combining a lot of different materials. I often worked with watercolors, pencils and markers. In this way I was able to achieve interesting shades of colors, which ultimately made my work even more unusual. 
 
+![illustrations](IMG/3.png)
+
 Later, at one of the exhibitions in my city, I met an artist to whom I decided to show my artworks. Since then, my view of art has completely changed. This artist helped me learn all the skills of academic drawing and taught me to look at the world from a completely different perspective. He helped me grow as an artist and as a person. The reason why I decided to devote my life to art in the future is because of him. But still, besides creativity, I was also very interested in psychology and sociology, so I made the decision to become a graphic designer, and I am sure I made the right choice.
+
+![Artworks](IMG/4.png)
 
 # Sources of inspiration
 
