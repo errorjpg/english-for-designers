@@ -1,12 +1,13 @@
+# My Story
 ![Title](IMG/title.png)
 
-# My Design Philosophy
+## My Design Philosophy
 
 I love creativity, in all its manifestations, but I am also very interested in psychology and sociology. Graphic design combines all these factors and helps to reveal them in our lives. I really enjoy studying and analyzing each person as an individual and helping to implement their ideas and visions in real life. 
 
 I believe I can provide a creative understanding of the world. To allow people to feel it by working with me. And it is also important to show that everything that surrounds us, our world, is an integral part of art, and that each person living in it is the artist of his or her life.  
 
-# The Creative Way
+## The Creative Way
 
 All my life I have been fascinated by art and have always been surrounded by creative people. Since my early childhood, my father took me to unusual exhibitions and there he introduced me to the works of artists and their stories. I was totally obsessed by this process, and inspired by it, I always sketched all the interesting things on paper. 
 
@@ -22,7 +23,7 @@ Later, at one of the exhibitions in my city, I met an artist to whom I decided t
 
 ![Artworks](IMG/4.png)
 
-# Sources of inspiration
+## Sources of inspiration
 
 I am always inspired by everything around me. I really like to notice various things that people usually don't pay any attention to.
 For example, it can be old broken neon signs that reflect their bright light on the white snow, while creating a great number of unusual shades that shimmer from the crystals of the snow. I am often inspired by the textures and patterns on architectural structures and look at how they are compositionally arranged. I also observe people and see how they express their emotions. For me it is observation that is the key to quality design decisions. 
