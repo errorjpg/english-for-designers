@@ -8,7 +8,7 @@
 - [Impression](../02-impression/index.md)
 - [Case Study](../03-aboutness/case-study.md)
 - [Voice & Tone](../05-voice-tone/index.md)
-- My story
+- [My story](../06-storytelling/index.md)
 
 # Contact
 magic4jellyfish@gmail.com / 
