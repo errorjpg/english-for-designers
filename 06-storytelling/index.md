@@ -11,7 +11,9 @@ I believe I can provide a creative understanding of the world. To allow people t
 
 All my life I have been fascinated by art and have always been surrounded by creative people. Since my early childhood, my father took me to unusual exhibitions and there he introduced me to the works of artists and their stories. I was totally obsessed by this process, and inspired by it, I always sketched all the interesting things on paper. 
 
+
 ![Video](VIDEO/video.mp4)
+
 
 That's how I gradually started to keep my sketchbook. And there, through collages and illustrations, I wanted to express my emotions and keep all the most interesting and important moments in my life. It was an interpretation of my inner world that only I could understand.
 
