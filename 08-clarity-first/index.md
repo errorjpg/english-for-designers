@@ -16,6 +16,8 @@ Redesign of the visual style for the EFEST festival. Development of functional c
 
 ## Mind Map
 
+![mindmap](Mindmap/Mindmap.png)
+
 ## Keywords
 rebranding, branding, visual style, marketing, graphic design
 
