@@ -21,3 +21,7 @@ For the visual concept of the festival I made one general logo, which is made us
 **Colors**
 
 The festival has a very bright and intense program, and this is the main part of its theme. Therefore, it was important to choose a neutral color that could go well with the photos from this festival. As well as on all the promotional products. So I decided to use just the color matalic with highlights of other colors. And the logos were left in basic black to make the concept look harmonious. 
+
+![page-2](PDF/2.pdf)
+![page-3](PDF/3.pdf)
+![page-4](PDF/4.pdf)
