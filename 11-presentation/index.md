@@ -8,7 +8,7 @@ The organizer of the event is the "Center for Realization of Cultural Projects".
 
 The main idea of the festival is to use special effects and electronic music to create the illusion of outer space, and give people the opportunity to feel it and get away from the surface of the Earth for a while.
 
-![page1](PDF/1.pdf)
+![page-1](PDF/1.pdf)
 
 ## Visual Style 
 
