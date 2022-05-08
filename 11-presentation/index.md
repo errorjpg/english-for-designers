@@ -1,6 +1,6 @@
 # Visual style and communication strategy for the EFEST festival 
 
-## Thesis summary
+## Thesis summary (つ ͡° ͜ʖ ͡°)つ
 
 It is necessary to transform traditional perceptions and approach in the design of the visual style for the music festival. Reflecting emotions graphically, through visual elements and contrasts. Execution of advertising and graphic complex so as to maximize the original idea understandable to the target audience of the festival. Also an important part of the work is to create a memorable and competitive visual style of the music festival.
 
