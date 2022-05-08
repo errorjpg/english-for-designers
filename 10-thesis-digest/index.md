@@ -8,7 +8,7 @@
 ## Keywords 	
 music festival, graphic design, visual identity, branding, logo, marketing, style, social media, strategy, communication 
 
-## Draft
+## Draft (งಠل͜ಠ)ง
 
 **Motivation/Problem/Opportunity**
 
