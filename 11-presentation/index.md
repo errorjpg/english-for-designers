@@ -8,6 +8,8 @@ The organizer of the event is the "Center for Realization of Cultural Projects".
 
 The main idea of the festival is to use special effects and electronic music to create the illusion of outer space, and give people the opportunity to feel it and get away from the surface of the Earth for a while.
 
+![page1](PDF/1.pdf)
+
 ## Visual Style 
 
 The festival has two directions EFEST Music and EFEST Light, so I had to create a visual style that would highlight the characteristics of each event, but also unite them between each other. That's why I decided to create graphic figures for these directions. I also made these figures in 3D style to emphasize the futuristic and point to the theme of this festival. 
