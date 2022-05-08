@@ -11,4 +11,4 @@ The practical part is based on the process of using the theory received in pract
 ## Keywords
 music festival, graphic design, visual identity, branding, logo, marketing, style, social media, strategy, communication, 
 
-## Presentation 
+[Presentation]
