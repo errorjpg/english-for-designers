@@ -8,6 +8,8 @@ The organizer of the event is the "Center for Realization of Cultural Projects".
 
 The main idea of the festival is to use special effects and electronic music to create the illusion of outer space, and give people the opportunity to feel it and get away from the surface of the Earth for a while.
 
+The main distinguishing characteristic of the festival is primarily the unique and unusual idea of the event, which includes a large number of different creative manifestations using innovative technology combined with incredible electronic music.
+
 ![page-1](PDF/1.pdf)
 
 ## Visual Style 
