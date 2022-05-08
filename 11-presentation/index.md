@@ -14,7 +14,7 @@ The main idea of the festival is to use special effects and electronic music to 
 
 ![page-1](PDF/1.pdf)
 
-## Visual Style 
+## Visual Style (✧≖‿ゝ≖)
 
 The festival has two directions EFEST Music and EFEST Light, so I had to create a visual style that would highlight the characteristics of each event, but also unite them between each other. That's why I decided to create graphic figures for these directions. I also made these figures in 3D style to emphasize the futuristic and point to the theme of this festival. 
 
