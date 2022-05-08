@@ -6,9 +6,7 @@ EFEST is a festival that combines electronic music and visual art. Special uniqu
 
 The organizer of the event is the "Center for Realization of Cultural Projects". The event is supported by the Ministry of Culture.
 
-The main idea of the festival is to use special effects and electronic music to create the illusion of outer space, and give people the opportunity to feel it and get away from the surface of the Earth for a while.
-
-The main distinguishing characteristic of the festival is primarily the unique and unusual idea of the event, which includes a large number of different creative manifestations using innovative technology combined with incredible electronic music.
+The main idea of the festival is to use special effects and electronic music to create the illusion of outer space, and give people the opportunity to feel it and get away from the surface of the Earth for a while. A special characteristic of the festival lies primarily in the unique and unusual idea of the event, which includes a large number of different creative manifestations using innovative technology combined with incredible electronic music. The festival activities are intended to allow people to diversify their daily leisure time in an unusual environment, cultural development and recreation, to get positive and vivid emotions, as well as recharged with the energy of the event.
 
 ![page-1](PDF/1.pdf)
 
