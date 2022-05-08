@@ -35,3 +35,4 @@ On the Russian market there are not so many such festivals with a really good vi
 The goal is to develop the industry of themed music festivals. And also to unite creative people from different industries.
 
 ## Reference & Moodboard
+![moodboard](PNG/Moodboard.png)
