@@ -6,7 +6,7 @@ I really liked the concept of the subject, which combined English and coding. En
 
 It is also important to note the professional approach of our teacher. He was very interesting and clear in presenting all the information to us. He was able to create an incredibly friendly and pleasant atmosphere in our class, which made this subject my favorite. Our teacher was one of the few people who really understood how hard it was for us this year and did everything possible to help. I can definitely say that this person really loves his job and is a professional. It would be great if there were more teachers like him.
 
-_Mr. Gagne, I want to thank you personally for your patience and support, because not every teacher treats his students so well. And that is really worthy of respect. You are an amazing person and I am very glad that you were our teacher.💖_
+_Mr. Gagne, I want to thank you personally for your patience and support, because not every teacher treats his students so well. And that is really worthy of respect. You are an amazing person and I am very glad that you were our teacher._ ฅ ̳͒•ˑ̫• ̳͒ฅ♡
 
 ### 2. What did you like least about this subject? 
 
