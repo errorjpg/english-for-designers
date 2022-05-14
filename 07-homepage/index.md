@@ -10,6 +10,12 @@
 - [Voice & Tone](../05-voice-tone/index.md)
 - [My story](../06-storytelling/index.md)
 
+- [Clarity first](../08-clarity-first/index.md)
+- [Layout second](../09-layout-second/index.md)
+- [Thesis digest](../10-thesis-digest/index.md)
+- [Presentation](../11-presentation/index.md)
+- [Year review](../12-year_review/index.md)
+
 # Contact
 magic4jellyfish@gmail.com / 
 +420 776 829 718 / 
